@@ -1,5 +1,6 @@
 # ClipSpeak
-    This is a variation of ClipMon (https://github.com/hikriss/clipmon). This app use Speech API from Microsoft to read the text in clipboard.
+
+This is a variation of ClipMon (https://github.com/hikriss/clipmon). This app use Speech API from Microsoft to read the text in clipboard.
 
 Sample code to use SAPI 5.x from python
 
